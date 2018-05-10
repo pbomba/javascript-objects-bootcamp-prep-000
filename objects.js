@@ -1,5 +1,5 @@
 var playlist = { Jamiroquai : "Cosmic Girl" };
 
-function updatePlaylist() {
-  
+function updatePlaylist(playlist, artistName, songTitle) {
+  Object.assign(playlist, {artistName: songTitle});
 }
