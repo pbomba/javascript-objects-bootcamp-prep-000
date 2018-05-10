@@ -1,4 +1,4 @@
-var playlist = {"Jamiroquai" : "Cosmic Girl"};
+var playlist = {"Jamiroquai" : "Cosmic Girl", artistName : songTitle};
 
 //var artistName = "Prints";
 //var songTitle = "Purple Rain";
